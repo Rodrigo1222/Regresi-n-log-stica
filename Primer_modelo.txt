@@ -1,0 +1,2 @@
+Regresión Lineal
+Nos funciona para para usar datos que la graficarlos nos mostraria una relacion representada por una linea 
